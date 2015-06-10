@@ -39,7 +39,7 @@ class PyTest(TestCommand):
 
 setup(
     name='pypg',
-    version=geofdw.__version__,
+    version=pypg.__version__,
     url='http://github.com/bosth/pypg',
     license='GPL',
     author='Benjamin Trigona-Harany',
