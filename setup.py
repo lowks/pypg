@@ -46,7 +46,7 @@ setup(
     tests_require=['pytest'],
     cmdclass={'test': PyTest},
     author_email='bosth@alumni.sfu.ca',
-    description='',
+    description='PostGIS Python tools',
     long_description=long_description,
     packages=['pypg'],
     include_package_data=True,
